@@ -14,9 +14,9 @@ namespace t547 {
 static const char *const TAG = "t574";
 
 void T547::setup() {
-  //this->initialize_();
-  //this->clean();
-  //this->display();
+  this->initialize_();
+  this->clean();
+  this->display();
 }
 
 void T547::initialize_() {
