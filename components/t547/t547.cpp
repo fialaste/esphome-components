@@ -14,11 +14,9 @@ namespace t547 {
 static const char *const TAG = "t574";
 
 void T547::setup() {
-  this->initialize_();
+  //this->initialize_();
   //this->clean();
-  if (false) { // Don't clear on setup / boot.
-   this->display();
-  }
+  //this->display();
 }
 
 void T547::initialize_() {
