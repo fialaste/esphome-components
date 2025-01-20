@@ -15,7 +15,7 @@ static const char *const TAG = "t574";
 
 void T547::setup() {
   this->initialize_();
-  this->clean();
+  //this->clean();
   this->display();
 }
 
